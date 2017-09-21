@@ -15,5 +15,6 @@ table{
 }
 #descriptiontable{
   display: block;
-  float:right;
+  position: static;
+  float: right;
 }
