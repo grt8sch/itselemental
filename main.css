@@ -8,6 +8,7 @@ body{
   margin: 0 auto;
   width: 75%;
   background-color: white;
+  padding: 15px;
 }
 table{
   border: 2px solid black;
