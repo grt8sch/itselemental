@@ -7,6 +7,26 @@ body{
 h1,h2,h3{
   text-align: center;
 }
+#title{
+  display:inline-block;
+}
+header{
+  background-color: white;
+}
+nav{
+  float:right;
+}
+a.nav{
+  text-decoration: none;
+  background-color: white;
+  color: black !important;
+  padding:15px;
+  transition: background 0.5s, color 0.5s;
+}
+a.nav:hover{
+  background-color:yellow;
+  color:white !important;
+}
 #container{
   margin: 0 auto;
   width: 75%;
