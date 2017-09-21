@@ -21,3 +21,6 @@ table{
   position: static;
   float: right;
 }
+article{
+  font-size: 18px;
+}
