@@ -21,6 +21,7 @@ a.nav{
   background-color: white;
   color: black !important;
   padding:15px;
+  position: static;
   transition: background 0.5s, color 0.5s;
 }
 a.nav:hover{
