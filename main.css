@@ -4,7 +4,7 @@
 body{
   background-image: url("bananas.png");
 }
-main{
+#container{
   width: 75%;
   height: 100%;
   margin: 0 auto;
