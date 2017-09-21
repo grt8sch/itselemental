@@ -12,6 +12,10 @@ h1,h2,h3{
 }
 header{
   background-color: white;
+  position:fixed;
+  top:0px;
+  right:0px;
+  width:100%;
 }
 nav{
   float:right;
