@@ -16,6 +16,7 @@ h1,h2,h3{
 table,tr,td{
   border: 2px solid black;
   margin: 5px;
+  border-collapse:collapse;
 }
 #descriptiontable{
   display: block;
