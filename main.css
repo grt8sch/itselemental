@@ -13,7 +13,7 @@ h1,h2,h3{
   background-color: white;
   padding: 30px;
 }
-table{
+table,tr,td{
   border: 2px solid black;
   margin: 5px;
 }
