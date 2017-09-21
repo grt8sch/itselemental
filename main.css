@@ -25,15 +25,16 @@ nav{
   float:right;
 }
 a.nav{
-  text-decoration: none;
-  background-color: white;
+  text-decoration: none !important;
+  background-color: white !important;
   color: black !important;
-  padding:15px;
-  position: static;
-  transition: background 0.5s, color 0.5s;
+  padding:15px !important;
+  margin-top:15px !important;
+  position: static !important;
+  transition: background 0.5s, color 0.5s !important;
 }
 a.nav:hover{
-  background-color:yellow;
+  background-color:yellow !important;
   color:white !important;
 }
 #container{
