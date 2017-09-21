@@ -8,8 +8,6 @@ main{
   width: 75%;
   margin: 0 auto;
   background-color: white;
-  display:block;
-  position:static;
 }
 table{
   border: 2px solid black;
