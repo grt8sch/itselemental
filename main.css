@@ -5,8 +5,8 @@ body{
   background-image: url("bananas.png");
 }
 #container{
-  margin:0 auto;
-  width:500px;
+  width:90%;
+  margin: 0 5%;
   background-color: white;
 }
 table{
