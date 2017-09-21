@@ -1,3 +1,7 @@
 *{
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
+body{
+  background-image: url("bananas.jpg");
+  background-repeat: repeat;
+}
