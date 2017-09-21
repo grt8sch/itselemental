@@ -4,3 +4,10 @@
 body{
   background-image: url("bananas.png");
 }
+main{
+  width: 75%;
+  background-color: white;
+}
+table{
+  border: 2px solid black;
+}
