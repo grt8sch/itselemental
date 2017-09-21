@@ -25,6 +25,7 @@ nav{
   float:right;
 }
 a.nav{
+  display: inline-block;
   text-decoration: none !important;
   background-color: white !important;
   color: black !important;
