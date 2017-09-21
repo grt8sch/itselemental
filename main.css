@@ -5,7 +5,7 @@ body{
   background-image: url("bananas.png");
 }
 h1,h2,h3{
-  text-align:center;
+  text-align: center;
 }
 #container{
   margin: 0 auto;
